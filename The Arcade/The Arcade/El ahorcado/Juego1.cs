@@ -216,7 +216,7 @@ namespace The_Arcade.El_ahorcado
 
         void AbrirMenu()
         {
-            Console.WriteLine("Has doble clic en enter para ir al menu principal");
+            Console.WriteLine("Has clic en enter para ir al menu principal");
             Console.ReadLine();
             MenuPrincipal open = new MenuPrincipal();
             open.Inicio();
