@@ -12,7 +12,7 @@
         Console.WriteLine(" ----------------||")
         Console.Write("||------------------- ")
         Console.ForegroundColor = ConsoleColor.Cyan
-        Console.Write("Console C# version")
+        Console.Write("Console VB version")
         Console.ForegroundColor = ConsoleColor.DarkMagenta
         Console.WriteLine(" -----------------||")
         Console.WriteLine("||========================================================||")
